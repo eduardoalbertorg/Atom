@@ -1,0 +1,19 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "seti-ui"
+      "monokai-seti"
+    ]
+  editor:
+    showIndentGuide: true
+    softWrap: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "975edd3b-5afe-ca01-2b76-2847c4770036"
+  linter: {}
+  welcome:
+    showOnStartup: false
+".basic.html.text":
+  editor:
+    showIndentGuide: true
